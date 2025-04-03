@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hhplus
+    name: server-java
   profiles:
     active: local
   datasource:
